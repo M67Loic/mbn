@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c8b9a4a0e35a73ca3d92bb204d1bbb44",
+    "content-hash": "8cb8eaba85ad66eebdd4be414d93abe3",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2755,6 +2755,53 @@
                 "source": "http://cgit.drupalcode.org/devel",
                 "issues": "http://drupal.org/project/devel",
                 "irc": "irc://irc.freenode.org/drupal-contribute"
+            }
+        },
+        {
+            "name": "drupal/drupal8_custom_theme",
+            "version": "1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/drupal8_custom_theme.git",
+                "reference": "8.x-1.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/drupal8_custom_theme-8.x-1.4.zip",
+                "reference": "8.x-1.4",
+                "shasum": "3ad639364eb1e5e2dc9bdafeebb5456d1fb88125"
+            },
+            "require": {
+                "drupal/core": "~8.0"
+            },
+            "type": "drupal-theme",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.4",
+                    "datestamp": "1521996780",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "zymphonies-team",
+                    "homepage": "https://www.drupal.org/user/2280310"
+                }
+            ],
+            "description": "Designed & Developed by <a href=http://www.zymphonies.com>Zymphonies</a><br/>Contact us for any kind of Drupal services <a href=mailto:info@zymphonies.com>info@zymphonies.com</a>",
+            "homepage": "https://www.drupal.org/project/drupal8_custom_theme",
+            "support": {
+                "source": "https://git.drupalcode.org/project/drupal8_custom_theme"
             }
         },
         {
