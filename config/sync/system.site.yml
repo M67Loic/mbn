@@ -1,0 +1,14 @@
+uuid: e00d01f8-bf3e-4bfd-8916-f5896a08a900
+name: 'Etablissement St Drupal'
+mail: loic.mehl@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
